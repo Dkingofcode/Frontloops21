@@ -177,11 +177,15 @@ h1{
     border: 1px solid;
 }
 
-.size h5:hover{
+/*.size h5:hover{
    border: 1px solid rgb(226, 67, 46);
    color: rgb(226, 67, 46);
-}
+}*/
 
+.btn-active{
+    border: 1px solid rgb(226, 67, 46);
+    color: rgb(226, 67, 46);
+}
 
 
 .amount{
@@ -213,5 +217,4 @@ h1{
     color: black;
     transition:  6s ease;
     cursor: pointer;
-
 }
